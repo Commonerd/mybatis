@@ -19,4 +19,4 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 		select deptno from dept where deptno = #{deptno}
 	</select>
 	
-</mapper>
+</mapper> 
