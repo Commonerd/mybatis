@@ -20,6 +20,8 @@
 	</environments>
 	<mappers>
 		<mapper resource="sql/mapper/scott.xml" />
+		<mapper resource="sql/mapper/scottemp.xml" />
+		<mapper class="scott.mapper.DeptMapper"/>
 	</mappers>
 </configuration> 
 
