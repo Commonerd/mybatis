@@ -18,5 +18,5 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 		resultType="int">
 		select deptno from dept where deptno = #{deptno}
 	</select>
-	  
+	   
 </mapper>
